@@ -8,10 +8,8 @@ Beyond the Code: 🤓
 
 When I'm not immersed in the world of code, you can find me:
 
-∙ Reading:  I love losing myself in a good book 📚
-
-∙ Learning: I'm a lifelong learner, always eager to explore new technologies and expand my knowledge. 🧠
-
+∙ Reading:  I love losing myself in a good book 📚 <br/>
+∙ Learning: I'm a lifelong learner, always eager to explore new technologies and expand my knowledge. 🧠 <br/>
 • Working Out: Staying fit and healthy is important to me. 💪
 
 <!--
