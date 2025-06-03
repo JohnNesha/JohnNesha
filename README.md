@@ -1,4 +1,7 @@
-## Hi there 👋 I'm JohnNesha
+## 
+![image](https://github.com/user-attachments/assets/094d2a2e-9960-4a63-8065-17016a85b43c)
+
+
 
 I'm a Software QA Engineer transitioning into a Software Engineer role, and I'm super excited about the journey!  I've spent 4 years honing my skills in testing and quality assurance, developing a keen eye for detail and a deep understanding of the software development lifecycle. Now, I'm ready to leverage that experience to build amazing things.  🚀
 
