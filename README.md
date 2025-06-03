@@ -12,6 +12,10 @@ When I'm not immersed in the world of code, you can find me:
 ∙ Learning: I'm a lifelong learner, always eager to explore new technologies and expand my knowledge. 🧠 <br/>
 • Working Out: Staying fit and healthy is important to me. 💪
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnNesha&show_icons=true&theme=radical)
+
 <!--
 **JohnNesha/JohnNesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
